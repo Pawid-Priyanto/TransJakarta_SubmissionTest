@@ -353,13 +353,13 @@ This allows the user to quickly return to the initial state.
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone <https://github.com/Pawid-Priyanto/TransJakarta_SubmissionTest>
 ```
 
 Navigate to the project:
 
 ```bash
-cd <PROJECT_DIRECTORY>
+cd <TransJakarta_SubmissionTest>
 ```
 
 Install dependencies:
